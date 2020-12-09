@@ -1,0 +1,9 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="230px" height="230px"
+     xmlns="http://www.w3.org/2000/svg">
+<g stroke="#FE9800" stroke-width="12px" fill="transparent">
+  <circle cx="115" cy="115" r="103"/>
+  <path d="M50,116L91,166 180,70"/>
+</g>
+</svg>
